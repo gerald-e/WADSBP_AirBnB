@@ -1,29 +1,25 @@
 ﻿## Project Write a data science blog post
 
-
-1. Installations
-2. Project Motivation
-3. Questions answered
-4. Method and Results
-3. File Descriptions
-4. Used Libraries
-5. Licensing, Authors, Acknowledgements, etc.
-
-## Installations
-
+1. Project Motivation
+2. Questions answered
+3. Method and Results
+4. File Descriptions
+5. Used Libraries
+6. Installations and Dependencies
+7. Licensing, Authors, Acknowledgements, etc.
 
 ## Project Motivation
 
-Wie kann mir AirBnB bei meiner nächsten Wohnung passend zu meinem neuen Job helfen? Ich will mir es sparen in der Gegend rum zu fahren (Zeit und Geld) --> Es soll für den ersten Eindruck helfen. 
+How can AirBnB help me with a longer term home search and how can I save a lot of time? This analysis should help me with the search to a first impression.
 
 ## Questions answered
 
-Wo kann meine Tochter in Berlin am besten Leben. Dazu habe ich mir folgende Fragen gestellt:
+In order to keep the effort to find a flat as low as possible I asked myself the following questions:
 
 What is the booking load?
 How is the district scoring?
 What are the revenues of the district?
-Show me the best place to live
+Where can I find the best place to live?
 
 The article detailing the key findings of this project can be found [here](https://https://medium.com/p/e0a70f3534ac/).
 
@@ -37,9 +33,7 @@ The project followed the CRISP-DM method of data exploration's six steps of:
 5. Evaluation, design and show the results
 6. Deployment
 
-The developed code  for the analysis can he found in the [notebook](https://github.com/gerald-e/WADSBP_AirBnB).
-
-To read the blog post associated with the article, you can go [here](https://medium.com/p/e0a70f3534ac/).
+The developed code  for the analysis can he found in the [notebook](https://github.com/gerald-e/WADSBP_AirBnB/blob/master/AirBnB%20accomondation.ipynb).
 
 
 ## File Descriptions
@@ -65,11 +59,11 @@ The following libraries are required to run the notebook:
 To run the section of the code involving Bokeh, you need to get a Geocoding API from google [here](https://developers.google.com/maps/documentation/geocoding/get-api-key)
 
 
-## Dependencies
+## Installations and Dependencies
 
 Each directory has a `requirements.txt` describing the minimal dependencies required to run the notebooks in that directory.
 
-### pip
+### Installations via pip
 
 To install these dependencies with pip, you can issue `pip3 install -r requirements.txt`.
 
