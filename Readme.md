@@ -21,7 +21,7 @@ How is the district scoring?
 What are the revenues of the district?
 Where can I find the best place to live?
 
-The article detailing the key findings of this project can be found [here](https://https://medium.com/p/e0a70f3534ac/).
+The article detailing the key findings of this project can be found [here](https://medium.com/@geraldfranzkrieg/berlin-and-airbnb-a-deep-look-into-this-love-e0a70f3534ac?sk=ded53906389538ddcbd2a54f165deb34).
 
 ## Method and Results
 
@@ -51,7 +51,6 @@ The following libraries are required to run the notebook:
 * matplotlib
 * numpy
 * pandas
-* scipy
 * seaborn
 * sklearn
 * Bokeh
